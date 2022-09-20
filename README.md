@@ -11,7 +11,7 @@
 - [termtoggle](https://github.com/aditya-K2/termtoggle.nvim) - a simple neovim plugin to toggle terminal window
 
 <details>
-<summary><b>माऊ </b></summary>
+<summary><b>माऊ </b><i>(Mau)</i></summary>
 
 
 <img src="static/mau.jpeg" alt="mau" width="200"/>
