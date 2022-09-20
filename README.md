@@ -13,7 +13,7 @@
 <details>
 <summary><b>माऊ </b></summary>
 
-![mau](static/mau.jpeg)
 
+<img src="static/mau.jpeg" alt="mau" width="200"/>
 I don't know what you expected.
 </details>
