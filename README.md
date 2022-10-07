@@ -4,6 +4,7 @@
 **Active Projects**
 
 - [gomp](https://github.com/aditya-K2/gomp) - MPD client inspired from ncmpcpp
+- [parsers](https://github.com/aditya-K2/parsers) - Trying to explore parsers.
 
 **Inactive Projects**
 
@@ -14,6 +15,7 @@
 <summary><b>माऊ </b><i>(Mau)</i></summary>
 
 
-<img src="static/mau.jpeg" alt="mau" width="200"/>
+<img src="static/mau.jpeg" alt="mau" width="300"/>
+
 I don't know what you expected.
 </details>
