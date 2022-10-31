@@ -18,5 +18,4 @@
 
 <img src="static/mau.jpeg" alt="mau" width="300"/>
 
-I don't know what you expected.
 </details>
