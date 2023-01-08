@@ -12,10 +12,11 @@
 - [termtoggle](https://github.com/aditya-K2/termtoggle.nvim) - a simple neovim plugin to toggle terminal window
 - [parsers](https://github.com/aditya-K2/parsers) - Trying to explore parsers.
 
+----
+
+- [dots](https://github.com/aditya-K2/dot)
+
 <details>
-<summary><b>माऊ </b><i>(Mau)</i></summary>
-
-
-<img src="static/mau.jpeg" alt="mau" width="300"/>
-
+    <summary><b>माऊ </b><i>(Mau)</i></summary>
+    <img src="static/mau.jpeg" alt="mau" width="300"/>
 </details>
