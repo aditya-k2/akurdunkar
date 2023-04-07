@@ -3,7 +3,7 @@
 
 **Project Showcase**
 
-- [gomp](https://github.com/aditya-K2/gomp) - MPD client inspired from ncmpcpp
+- [gomp](https://github.com/aditya-K2/gomp) - A terminal client for MPD with native cover-art rendering capabilities
 - [scandoc](https://github.com/aditya-K2/scandoc) - A GTK Application to scan Documents and Compile PDFs
 - [brow](https://github.com/aditya-K2/brow) - A simple terminal utility to get browser history
 - [spellfloat](https://github.com/aditya-K2/spellfloat) - A Neovim plugin for spelling suggestions inspired from [iamcco/coc-spell-checker](https://github.com/iamcco/coc-spell-checker).
