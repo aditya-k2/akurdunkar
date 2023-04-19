@@ -1,12 +1,12 @@
-## aditya-K2 (Aditya Kurdunkar)
-
+## *aditya-K2* (Aditya Kurdunkar)
 
 **Project Showcase**
 
-- [gomp](https://github.com/aditya-K2/gomp) - A terminal client for MPD with native cover-art rendering capabilities
+- [gspt](https://github.com/aditya-K2/gspt) - Spotify for terminal written in Go.
 - [scandoc](https://github.com/aditya-K2/scandoc) - A GTK Application to scan Documents and Compile PDFs
 - [brow](https://github.com/aditya-K2/brow) - A simple terminal utility to get browser history
 - [spellfloat](https://github.com/aditya-K2/spellfloat) - A Neovim plugin for spelling suggestions inspired from [iamcco/coc-spell-checker](https://github.com/iamcco/coc-spell-checker).
+- [gomp](https://github.com/aditya-K2/gomp) - A terminal client for MPD with native cover-art rendering capabilities
 <details>
     <summary>
         Others
