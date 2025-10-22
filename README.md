@@ -1,4 +1,4 @@
-## *aditya-K2* (Aditya Kurdunkar)
+## *akurdunkar* (Aditya Kurdunkar)
 
 **Project Showcase**
 
